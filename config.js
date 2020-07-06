@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
+    logo: 'https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg',
     logoLink: 'https://nixos.org/learn',
     title:
       "Nix user manual demo",
